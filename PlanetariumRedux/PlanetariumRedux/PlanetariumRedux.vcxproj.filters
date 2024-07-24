@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Shaders">
+      <UniqueIdentifier>{3f927b00-1114-4aa8-ac23-b0f2e15b0b0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders\LightShader">
+      <UniqueIdentifier>{eab8f3ab-a42a-4f04-8c96-b0df5e359c6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders\SimplePlanetShader">
+      <UniqueIdentifier>{934a4017-5301-4a5b-90ea-6cbde7ab50a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders\TextureShader">
+      <UniqueIdentifier>{0b4ba8e4-995d-434f-8898-9d0d321db28b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders\SkyboxShader">
+      <UniqueIdentifier>{409d161d-333d-4c59-8998-e353feb9abaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\EngineObject">
+      <UniqueIdentifier>{6f4cdc47-91a5-468b-ab58-4f06cba598e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Skybox">
+      <UniqueIdentifier>{7d83bd35-b150-4bc7-9aa8-d5349682c625}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PlanetariumRedux.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\GL\gl3w.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\error.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\obj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\shadow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineObject.h">
+      <Filter>Source Files\EngineObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Source Files\Skybox</Filter>
+    </ClInclude>
+    <ClInclude Include="noise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerControlled.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="textured.frag">
+      <Filter>Source Files\Shaders\TextureShader</Filter>
+    </None>
+    <None Include="textured.vert">
+      <Filter>Source Files\Shaders\TextureShader</Filter>
+    </None>
+    <None Include="simplePlanetShader.vert">
+      <Filter>Source Files\Shaders\SimplePlanetShader</Filter>
+    </None>
+    <None Include="simplePlanetShader.frag">
+      <Filter>Source Files\Shaders\SimplePlanetShader</Filter>
+    </None>
+    <None Include="phong.vert">
+      <Filter>Source Files\Shaders\LightShader</Filter>
+    </None>
+    <None Include="phong.frag">
+      <Filter>Source Files\Shaders\LightShader</Filter>
+    </None>
+    <None Include="skybox.frag">
+      <Filter>Source Files\Shaders\SkyboxShader</Filter>
+    </None>
+    <None Include="skybox.vert">
+      <Filter>Source Files\Shaders\SkyboxShader</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,62 @@
+﻿  PlanetariumRedux.cpp
+C:\Users\edwin\Documents\grph8ics\include\error.h(9,19): warning C4476: 'fprintf' : unknown type field character '!' in format specifier
+C:\Users\edwin\Documents\grph8ics\include\error.h(9,51): warning C4474: 'fprintf' : too many arguments passed for format string
+C:\Users\edwin\Documents\grph8ics\include\error.h(9,51): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\edwin\Documents\grph8ics\include\file.h(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\shadow.h(48,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\shadow.h(49,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\shadow.h(50,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(655,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(685,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(687,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(687,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(687,132): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(687,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(687,202): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(687,179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(688,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(688,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(688,142): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(688,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(688,215): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(688,192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(689,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(689,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(689,142): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(689,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(689,215): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\include\obj.h(689,192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\noise.h(18,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\noise.h(61,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\noise.h(62,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\noise.h(167,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\noise.h(168,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\noise.h(169,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\EngineObject.h(40,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\EngineObject.h(41,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\EngineObject.h(430,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\EngineObject.h(449,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\EngineObject.h(564,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\PlanetariumRedux.cpp(355,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\PlanetariumRedux.cpp(360,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\PlanetariumRedux.cpp(365,21): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\PlanetariumRedux\PlanetariumRedux.cpp(371,21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\edwin\Documents\grph8ics\include\bitmap.h(34): warning C4715: 'savebitmap': not all control paths return a value
+C:\Users\edwin\Documents\grph8ics\include\bitmap.h(61): warning C4715: 'genHeightmap': not all control paths return a value
+  PlanetariumRedux.vcxproj -> C:\Users\edwin\Documents\grph8ics\PlanetariumRedux\x64\Debug\PlanetariumRedux.exe
